@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "chanfana-audio-converter",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "chanfana-audio-converter-db",
+      "database_id": "b07d8658-bec7-4342-9729-bfe9a00cdc55"
+    }
+  ]
+}
